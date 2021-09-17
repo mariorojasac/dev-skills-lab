@@ -49,6 +49,8 @@ background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(52,59,99,1) 47%, rgba
 
 h1 {
     text-align: center;
+    margin: 0px;
+    padding: 0px;
 }
 
 #content {
@@ -56,6 +58,9 @@ h1 {
     justify-content: center;
     height: 12vh;
     background-color: white;
+
+    margin: 0px;
+    padding: 0px;
 
 }
 
