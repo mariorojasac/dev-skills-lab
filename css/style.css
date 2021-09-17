@@ -40,8 +40,8 @@ background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(52,59,99,1) 47%, rgba
     justify-content: center;
     margin-top: -50px;
     color: white;
-    margin: 0px;
-    padding: 0px;
+    /* margin: 0px; */
+    /* padding: 0px; */
 
 
 }
@@ -53,20 +53,20 @@ background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgba(52,59,99,1) 47%, rgba
 
 h1 {
     text-align: center;
-    margin: 0px;
-    padding: 0px;
-    padding-top: 20px;
+    /* margin: 0px; */
+    /* padding: 0px; */
+    
 
 }
 
 #content {
     display: flex;
     justify-content: center;
-    height: 12vh;
+   position: absolute;
     background-color: white;
 
-    margin: 0px;
-    padding: 0px;
+    margin: dvd0px;
+    margin-left: 198px;
 
 }
 
@@ -74,8 +74,8 @@ h1 {
     display: flex;
     justify-content: center;
     background-color: white;
-    margin-top: 25vh;
-margin-bottom: 12px;
+    margin-top: 30vh;
+
 
 }
 
